@@ -74,7 +74,7 @@ const Footer = () => {
           </div>
         </section>
       </footer>
-      <p className="text-center font-semibold  mt-3 font-Montserrat">
+      <p className="text-center font-semibold  my-5 font-Montserrat">
         {" "}
         © 2023 Osumare. All rights reserved.
       </p>
