@@ -6,6 +6,16 @@
     body{
     @apply bg-body
   }
+  .btn{
+    @apply bg-primary rounded-full font-bold text-xl  text-white p-2 hover:bg-primarylight
+  }
+  /* Contact Form */
+  .inputBox{
+    @apply flex flex-col gap-3
+  }
+  .input{
+    @apply bg-slate-100 outline-none border-none rounded-md p-1 focus:outline-primary
+  }
   /* Footer Styles */
   .content-box{
     @apply flex flex-col gap-5 flex-1
