@@ -2,13 +2,13 @@ const ContactForm = () => {
   return (
     <article className="flex flex-col justify-center items-center gap-4 my-20">
       {/* heading */}
-      <h3 className="font-Montserrat font-extrabold text-lg md:text-xl">
+      <h3 className="heading">
         Connect with Our Digital Marketing Experts
       </h3>
       {/* sub heading */}
-      <p className="font-sans text-center  font-semibold mx-[10%]">
-        Reach Out for Tailored Strategies and Results-Driven Solutions. Let's
-        Elevate Your Online Presence Together
+      <p className="subHeading">
+        Reach Out for Tailored Strategies and Results-Driven Solutions.
+        Let's Elevate Your Online Presence Together
       </p>
       {/* form elements */}
       <form className="bg-white rounded-3xl shadow-md shadow-gray-300 px-6 py-10  w-[80%] max-w-[800px]">
